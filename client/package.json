@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "@ant-basement/miniprogram-sdk": "^1.0.4"
+  }
+}
